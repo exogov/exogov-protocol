@@ -1,0 +1,1 @@
+// Placeholder for proposal-templates/template-1.md
